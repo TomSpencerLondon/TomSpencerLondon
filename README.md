@@ -1,6 +1,6 @@
 # Hello 👋 🧑‍💻 🚀
 
-Hi, I'm Tom! I'm a software craftsman. I'm passionate about making well-crafted software and building a strong developer community. 
+Hi, I'm Tom! I'm a software crafter. I'm passionate about making well-crafted software and building a strong developer community. 
 You can find me on the 🕸️:
 
 - [👨‍🏫](https://youtu.be/08AnQ3UxudY) Learning in public on youtube [🎞️](https://youtu.be/08AnQ3UxudY) or my blog [✍🏻](https://tomcraftsman.xyz)
