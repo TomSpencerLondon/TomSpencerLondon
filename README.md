@@ -8,6 +8,3 @@ You can find me on the 🕸️:
 - 🎶  Playing trumpet [🎺 ](https://www.youtube.com/watch?v=oY3XAV5X0cs) and jazz piano 🎹
 - [🙋](mailto:tomspencerlondon@gmail.com) Ask me about Java, Ruby and TDD 🎨 [🖌️](mailto:tomspencerlondon@gmail.com)
 - [📰](https://github.com/TomSpencerLondon/CV) Find out more about me on my CV [🎉](https://github.com/TomSpencerLondon/CV)
-
-கற்க கசடறக் கற்பவை கற்றபின்
-நிற்க அதற்குத் தக.
