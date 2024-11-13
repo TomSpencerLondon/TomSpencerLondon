@@ -8,3 +8,4 @@ You can find me on the 🕸️:
 - 🎶  Playing trumpet [🎺 ](https://www.youtube.com/watch?v=oY3XAV5X0cs) and jazz piano 🎹
 - [🙋](mailto:tomspencerlondon@gmail.com) Ask me about Java, Ruby and TDD 🎨 [🖌️](mailto:tomspencerlondon@gmail.com)
 - [📰](https://github.com/TomSpencerLondon/CV) Find out more about me on my CV [🎉](https://github.com/TomSpencerLondon/CV)
+![dino](https://github.com/user-attachments/assets/54887e9e-f8bd-43d8-a209-d6721e794fbe)
